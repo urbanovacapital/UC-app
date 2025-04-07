@@ -1,3 +1,3 @@
 # Urbanova App
 
-Plataforma de inversión colaborativa en propiedades urbanas.
+Proyecto de ejemplo para plataforma de inversión inmobiliaria.
